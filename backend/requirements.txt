@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+duckdb
+pandas
+langchain
+langchain-openai
+langchain-chroma
+langchain-community
+openai
+chromadb
+python-dotenv
+chainlit
+anyio

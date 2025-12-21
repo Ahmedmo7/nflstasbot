@@ -1,0 +1,51 @@
+# Environment / secrets
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Byte-compiled / optimized / DLL files
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Database files
+*.sqlite3
+*.duckdb
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# JetBrains
+.idea/
+
+# Python test / coverage
+.pytest_cache/
+coverage.xml
+htmlcov/
+
+# Others
+*.tmp
+
+.chainlit
+
+backend/chroma_db/*
+
